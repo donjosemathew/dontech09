@@ -1,5 +1,12 @@
 ### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dontech09&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dontech09)](https://github.com/anuraghazra/github-readme-stats)
+
+https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white 
+https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 <!--
 **dontech09/dontech09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
