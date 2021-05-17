@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React,React Native
 - 🤔 I’m looking for help with Tensorflow
 - 💬 Ask me about UI/UX/Web
-- 📫 How to reach me: <a href="mailto:donjosemathew.mail@gmail.com">Email Us</a> 
+- 📫 How to reach me: <a href="mailto:donjosemathew.mail@gmail.com">Email Me</a> 
 - 😄 Pronouns: 🙎‍♂️
 - ⚡ Fun fact: 🎨🎮🐱‍🏍
 
