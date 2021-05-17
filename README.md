@@ -1,8 +1,12 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dontech09&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dontech09)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning React,React Native
+- 🤔 I’m looking for help with Tensorflow
+- 💬 Ask me about UI/UX/Web
+- 📫 How to reach me: <a href="mailto:donjosemathew.mail@gmail.com">Email Us</a> 
+- 😄 Pronouns: 🙎‍♂️
+- ⚡ Fun fact: 🎨🎮🐱‍🏍
 
 
 <!--
