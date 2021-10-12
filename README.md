@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on LearnByResearch As React Intern
-- 🌱 I’m currently learning React,React Native
-- 🤔 I’m looking for help with Tensorflow
+- 🌱 I’m currently learning Node.js
 - 📗 Reading ShoeDog by Phil Knight
 - 💬 Ask me about UI/UX/Web
 - 📫 How to reach me: <a href="mailto:donjosemathew.mail@gmail.com">Email Me</a> 
